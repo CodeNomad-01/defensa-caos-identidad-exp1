@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+.coverage
+htmlcov/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+scripts/oci/oci.env
+scripts/oci/.last_image
+k8s/secret.yaml
+data/object-storage/
+chaos/runtime/
+scripts/oci/.oke_ids
